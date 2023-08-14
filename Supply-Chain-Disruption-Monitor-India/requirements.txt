@@ -1,0 +1,19 @@
+# Generated for Enterprise Analytics Platform
+# Total dependencies: 16
+
+locust>=2.24.0
+motor>=3.3.0
+joblib>=1.4.0
+gradio>=4.0.0
+bokeh>=3.3.0
+dask>=2024.2.0
+pyyaml>=6.0.1
+lightgbm>=4.2.0
+seaborn>=0.13.2
+awscli>=1.32.0
+matplotlib>=3.9.0
+hypothesis>=6.100.0
+dask>=2024.1.0
+tbats>=1.1.0
+statsmodels>=0.14.0
+awswrangler>=3.6.0
