@@ -1,0 +1,25 @@
+# Generated for Enterprise Analytics Platform
+# Total dependencies: 22
+
+polars>=0.20.0
+mlflow>=2.10.0
+coverage>=7.4.0
+faker>=23.0.0
+pydantic>=2.6.0
+faker>=22.0.0
+seaborn>=0.13.0
+neuralprophet>=1.0.0
+sqlalchemy>=2.0.25
+aiohttp>=3.9.0
+flask>=3.1.0
+nbformat>=5.9.0
+python-dotenv>=1.0.1
+rich>=13.7.0
+modin>=0.28.0
+typer>=0.9.0
+wandb>=0.16.0
+gradio>=4.5.0
+redshift-connector>=2.1.0
+ggplot>=0.11.0
+vaex>=4.17.0
+boto3>=1.34.0
