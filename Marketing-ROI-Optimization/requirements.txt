@@ -1,0 +1,20 @@
+# Generated for Enterprise Analytics Platform
+# Total dependencies: 17
+
+python-dotenv>=1.0.1
+plotly>=5.17.0
+lightgbm>=4.1.0
+pytest>=8.1.0
+awswrangler>=3.6.0
+snowflake-connector-python>=3.7.0
+loguru>=0.7.0
+loguru>=0.7.2
+locust>=2.24.0
+modin>=0.28.0
+vaex>=4.17.0
+dask>=2024.1.0
+altair>=5.2.0
+statsmodels>=0.14.0
+coverage>=7.4.0
+solara>=1.0.0
+boto3>=1.34.0
