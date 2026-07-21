@@ -1,15 +1,11 @@
 # AI-Based-Industrial-Intel-Dashboard
 
-![Dashboard Screenshot](assets/1.png)
-
 ---
 
-![Dashboard Screenshot 2](assets/2.png)
+<img width="1898" height="820" alt="Screenshot 2025-12-02 133253" src="assets/1.png" />
+
+<img width="1590" height="867" alt="Screenshot 2025-12-02 133313" src="assets/2.png" />
+
+<img width="1596" height="771" alt="Screenshot 2025-12-02 133326" src="assets/3.png" />
 
 ---
-
-![Dashboard Screenshot 3](assets/3.png)
-
-
----
-*Part of [Abhishek Analytics Lab](https://github.com/Abhishek-Analytics-Lab) portfolio*
