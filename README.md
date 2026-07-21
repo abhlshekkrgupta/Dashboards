@@ -6,12 +6,10 @@
 
 ## 🎯 About
 
-Complete source code for **21 enterprise-grade analytics dashboards** built over 2.5+ years of consulting across 6 industry verticals.
+Complete source code for **21 enterprise-grade analytics dashboards** built over 2.5+ years of consulting.
 
 ---
 
-
----
 
 ## 📂 Dashboard Categories
 
